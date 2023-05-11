@@ -74,5 +74,13 @@ for End to end test:
 Supertest: Supertest is an HTTP testing library that allows testing of HTTP endpoints and server responses. It can be used for testing the email verification process, as it enables making requests to the server and validating the responses.
 
 
+code is available in src folder
+
+How to Run:
+clone Repo
+npm install
+npm test 
+npm start
+
 
 
